@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Abhilash Biswas</h1>
-<h3 align="center">IT 3rd year at NIT Raipur</h3>
+<h3 align="center">IT final year at NIT Raipur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash42069&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash42069" /> </p>
 
