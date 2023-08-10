@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm Abhilash Biswas</h1>
-<h3 align="center">IT final year at NIT Raipur</h3>
+<h3 align="center">NIT Raipur '23</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash42069&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash42069" /> </p>
 
 - 🔭 I’m currently working on [Tourister](https://touristercg.herokuapp.com/)
 
-- 🌱 I’m currently learning **Three.js, WebGL and Typescript**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on [Tourister](https://touristercg.herokuapp.com/)
 
